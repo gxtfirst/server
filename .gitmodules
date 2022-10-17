@@ -1,0 +1,3 @@
+[submodule "src/vue3children"]
+	path = src/vue3children
+	url = https://github.com/gxtfirst/vue3children.git
